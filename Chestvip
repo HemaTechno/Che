@@ -195,11 +195,11 @@ function AllowRunServiceBind.OnInvoke(args)
 
     CoreGui:SetCore("SendNotification", {
 
-        Title = "Turbo Auto Chest",
+        Title = "Hema Tech Auto Chest",
 
-        Text = "discord.gg/zKA8VNHzME",
+        Text = "H-Scripts",
 
-        Icon = "rbxthumb://type=Asset&id=18918678444&w=150&h=150",
+         Icon = "rbxthumb://type=Asset&id=120099346413954&w=150&h=150",
 
         Duration = math.huge,
 
@@ -242,11 +242,11 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
 
-    Title = "Turbo Auto Chest",
+    Title = "Hema Tech Auto Chest",
 
     Text = "H-Scripts.site",
 
-    Icon = "rbxthumb://type=Asset&id=18918678444&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=120099346413954&w=150&h=150",
 
     Duration = math.huge,
 
